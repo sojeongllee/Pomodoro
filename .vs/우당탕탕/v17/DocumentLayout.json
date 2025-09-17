@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\uC6B0\uB2F9\uD0D5\uD0D5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C87B5BB1-85E6-4300-8DCD-DC06EE21900F}|\uC6B0\uB2F9\uD0D5\uD0D5.csproj|c:\\users\\user\\desktop\\\uC6B0\uB2F9\uD0D5\uD0D5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C87B5BB1-85E6-4300-8DCD-DC06EE21900F}|\uC6B0\uB2F9\uD0D5\uD0D5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uC6B0\uB2F9\uD0D5\uD0D5\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uC6B0\uB2F9\uD0D5\uD0D5\\Form1.cs [\uB514\uC790\uC778]*",
+              "RelativeToolTip": "Form1.cs [\uB514\uC790\uC778]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T11:55:28.914Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
